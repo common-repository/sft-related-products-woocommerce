@@ -1,0 +1,5 @@
+jQuery(document).ready(function(){
+    jQuery('#rpwfr_related_products_category_include_select, #rpwfr_related_products_category_exclude_select, #rpwfr_related_products_tag_incldue_select, #rpwfr_related_products_tag_exclude_select, #related_products_individual_select, #rpwfr_buc-multiple-categories, #rpwfr_buc-multiple-tags, #rpwfr_buc-multiple-sku, #rpwfr_buc-single-product, .rpwfr-buy-again-cat-exc-selection, .rpwfr-buy-again-cat-inc-selection, .rpwfr-buy-again-tag-exc-selection, .rpwfr-buy-again-tag-inc-selection, .rpwfr-phrp-cat-exc-selection, .rpwfr-all-onsale-cat-inc-select, .rpwfr-phrp-cat-inc-selection, .rpwfr-phrp-tag-exc-selection, .rpwfr-phrp-tag-inc-selection').select2({ allowHtml: true });
+    jQuery('.rpwfr_buc-filter-box').select2({ width: '400px' });
+    jQuery('.rpwfr_buc-product-filter-box').select2({ width: '400px' });
+})

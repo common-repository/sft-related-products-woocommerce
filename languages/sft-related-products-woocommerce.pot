@@ -1,0 +1,838 @@
+# Copyright (C) 2024 SaffireTech
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Related Products for WooCommerce 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sft-related-products-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-04T05:21:27+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: sft-related-products-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "Related Products for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Present related products on the product page based on your preferences."
+msgstr ""
+
+#. Author of the plugin
+msgid "SaffireTech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.saffiretech.com"
+msgstr ""
+
+#: includes/rpwfr-ajax-action-functions.php:21
+#: includes/rpwfr-buc-functions.php:19
+#: includes/rpwfr-buc-settings.php:1417
+#: includes/rpwfr-buc-settings.php:1508
+#: includes/rpwfr-publish-product-ajax.php:20
+msgid "Permission Denied."
+msgstr ""
+
+#: includes/rpwfr-ajax-action-functions.php:425
+#: includes/rpwfr-buc-functions.php:183
+#: includes/rpwfr-buc-functions.php:234
+#: includes/rpwfr-buc-functions.php:288
+#: includes/rpwfr-custom-functions.php:344
+#: includes/rpwfr-settings-tabs.php:62
+#: sft-related-products-woocommerce.php:50
+#: sft-related-products-woocommerce.php:74
+#: sft-related-products-woocommerce.php:120
+#: sft-related-products-woocommerce.php:181
+#: sft-related-products-woocommerce.php:334
+msgid "Nonce Not verified"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:16
+msgid "Bulk Management: Set Related Products, UpSells & CrossSells in One Go"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:21
+msgid "Setup With AI !"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:24
+msgid "Configure Related, Upsell, and Cross-Sell Products with AI."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:38
+#: includes/rpwfr-buc-settings.php:183
+msgid "Save"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:54
+#: includes/rpwfr-buc-settings.php:65
+#: includes/rpwfr-settings-tabs.php:125
+#: includes/rpwfr-settings-tabs.php:136
+msgid "Unlock Advanced Features For Related Products"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:66
+#: includes/rpwfr-settings-tabs.php:137
+msgid "100% Risk-Free Money Back Guarantee!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:67
+#: includes/rpwfr-settings-tabs.php:138
+msgid "We guarantee you a complete refund for new purchases or renewals if a request is made within 15 Days of purchase."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:71
+#: includes/rpwfr-settings-tabs.php:96
+#: includes/rpwfr-settings-tabs.php:142
+msgid "Upgrade To Pro!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:79
+#: includes/rpwfr-settings-tabs.php:150
+msgid "Pro Features"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:81
+#: includes/rpwfr-settings-tabs.php:152
+msgid "Bulk Management:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:81
+#: includes/rpwfr-settings-tabs.php:152
+msgid "Bulk Update Related Products, Upsells, and Cross-Sells for your entire store from a single screen."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:82
+#: includes/rpwfr-settings-tabs.php:153
+msgid "Custom Shortcode with \"AJAX Slider\":"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:82
+#: includes/rpwfr-settings-tabs.php:153
+msgid "Fast-loading, customizable related products showcase, with an efficient shortcode for placement anywhere."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:83
+#: includes/rpwfr-settings-tabs.php:154
+msgid "Custom Control:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:83
+#: includes/rpwfr-settings-tabs.php:154
+msgid "Handpick each item in the \"Related Products\" section for tailored product recommendations."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:84
+#: includes/rpwfr-settings-tabs.php:155
+msgid "Sales Boost:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:84
+#: includes/rpwfr-settings-tabs.php:155
+msgid "Increase average order value and revenue by displaying more relevant products to customers."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:85
+#: includes/rpwfr-settings-tabs.php:156
+msgid "AI Powered Product Suggestions:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:85
+#: includes/rpwfr-settings-tabs.php:156
+msgid "Boosts sales by using ChatGPT to suggest related products, enhancing customer experience and conversion rates."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:133
+msgid "Select Filter"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:134
+msgid "Category"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:135
+msgid "Tags"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:136
+msgid "SKU"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:137
+#: includes/rpwfr-buc-settings.php:1004
+#: includes/rpwfr-buc-settings.php:1537
+#: includes/rpwfr-buc-settings.php:1585
+msgid "Product Name"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:146
+msgid "Search for categories…"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:153
+msgid "Search for tags…"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:160
+msgid "Search for SKU…"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:167
+msgid "Type any product name..."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:182
+msgid "Search"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:194
+msgid "Product Count"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:197
+#: includes/rpwfr-buc-settings.php:198
+#: includes/rpwfr-buc-settings.php:199
+msgid "(Pro Version)"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:201
+msgid "Now, manage 50 products in one go with our"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:214
+#: includes/rpwfr-buc-settings.php:243
+msgid "of"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:887
+msgid "Please Enter Your Valid API Key First !"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:892
+#: includes/rpwfr-buc-settings.php:1382
+msgid "Configure API Key"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:909
+msgid "AI PRODUCT SUGGESTIONS"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:915
+msgid "Select Products or Categories for AI Product Suggestions:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:918
+msgid "Choose specific products or categories for AI to suggest Related Products, Upsells, and Cross-Sells."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:927
+msgid "Select All Products"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:931
+#: includes/rpwfr-buc-settings.php:950
+#: includes/rpwfr-buc-settings.php:1019
+#: includes/rpwfr-buc-settings.php:1034
+#: includes/rpwfr-buc-settings.php:1057
+#: includes/rpwfr-buc-settings.php:1092
+#: includes/rpwfr-buc-settings.php:1145
+msgid "Feature Available in "
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:933
+#: includes/rpwfr-buc-settings.php:952
+#: includes/rpwfr-buc-settings.php:1021
+#: includes/rpwfr-buc-settings.php:1036
+#: includes/rpwfr-buc-settings.php:1059
+#: includes/rpwfr-buc-settings.php:1094
+#: includes/rpwfr-buc-settings.php:1147
+msgid "Pro Version"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:946
+msgid "Select Categories"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:993
+msgid "Select Product Details for AI Prompt:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:996
+msgid "Customize the AI prompt by selecting product details to include, such as name, description, URL, or price. Providing comprehensive details can enhance the accuracy of product recommendations."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1009
+msgid "Product Description (Short)"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1015
+msgid "Product URL"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1030
+msgid "Product Price"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1049
+msgid "Choose the Type of Product Suggestions:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1052
+msgid "Select the type of product suggestions you want AI to generate. You can pick from options like Related Products, Upsells, or Cross-Sells to maximize your recommendation strategy."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1068
+msgid "Related"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1072
+#: includes/rpwfr-buc-settings.php:1608
+msgid "Upsells"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1076
+#: includes/rpwfr-buc-settings.php:1546
+msgid "Cross-Sells"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1084
+msgid "Set Number of Product Suggestions per Product:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1087
+msgid "Specify how many suggestions you want for each product. Suggestions for Related Products, Upsells and Cross-sells are counted separately."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1104
+msgid "Please enter a number between 1 and 10."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1111
+msgid "Describe Your Store:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1114
+msgid "Provide a brief description of your store to help AI understand your business better. This will enable more personalized and relevant product suggestions"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1126
+msgid "AI Prompt:"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1129
+msgid "The default AI prompt is optimized to work seamlessly with your products, but you can edit it to suit your needs. Personalize the prompt for more targeted and specific results."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1136
+msgid "Use Default Prompt"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1141
+msgid "Customize Default Prompt"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1162
+msgid "Create AI Request"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1200
+msgid "tokens will be used out of 4096"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1227
+msgid "Text Copied!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1340
+msgid "Request Created"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1344
+msgid "Your request was initiated successfully!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1354
+msgid "Create Request"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1356
+msgid "Please ensure products are selected from field above before submitting your request."
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1377
+msgid "Your API token credit limit has expired !"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1381
+msgid "Renew Credits"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1458
+msgid "Awesome, you've been using"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1458
+msgid "for more than 1 week"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1459
+msgid "If you like our plugin would you like to rate our plugin at WordPress.org ?"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1460
+msgid "Yes, I'd like to rate it!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1460
+msgid "I already did!"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1539
+#: includes/rpwfr-custom-functions.php:1039
+#: includes/rpwfr-related-setting.php:146
+#: includes/rpwfr-settings-tabs.php:16
+#: includes/rpwfr-settings-tabs.php:72
+msgid "Related Products"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1542
+msgid "UpSells"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1592
+#: includes/rpwfr-buc-settings.php:1609
+#: includes/rpwfr-buc-settings.php:1627
+msgid "Search for a product…"
+msgstr ""
+
+#: includes/rpwfr-buc-settings.php:1626
+msgid "Cross-sells"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:119
+msgid "Related-Products Filter"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:121
+msgid "Default"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:122
+msgid "Categories Only"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:123
+msgid "Tags Only"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:124
+msgid "Categories and Tags"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:125
+msgid "Individual Pick"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:129
+#: includes/rpwfr-custom-functions.php:143
+#: includes/rpwfr-custom-functions.php:157
+#: includes/rpwfr-custom-functions.php:174
+#: includes/rpwfr-custom-functions.php:191
+#: includes/rpwfr-custom-functions.php:205
+#: includes/rpwfr-custom-functions.php:222
+#: includes/rpwfr-custom-functions.php:239
+msgid "Related products to be displayed on the Product Page"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:137
+msgid "Category Filter Mode"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:139
+msgid "Include Categories"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:140
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:152
+msgid "Categories to include"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:169
+msgid "Categories to exclude"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:185
+msgid "Tag Filter Mode"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:187
+msgid "Include Tags"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:188
+msgid "Exclude Tags"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:200
+msgid "Tags to include"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:217
+msgid "Tags to exclude"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:234
+msgid "Select Individual products"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:1048
+msgid "Page no"
+msgstr ""
+
+#: includes/rpwfr-custom-functions.php:1050
+msgid "Start over"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:24
+#: includes/rpwfr-general-settings.php:30
+#: includes/rpwfr-general-settings.php:52
+#: includes/rpwfr-general-settings.php:63
+msgid "Add label"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:37
+msgid "This setting allows you to pick the background color to change background color of products slider"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:55
+#: includes/rpwfr-general-settings.php:66
+#: includes/rpwfr-settings-tabs.php:415
+msgid "This setting allows you to pick the color to change color of previous and next button within shortcode"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:84
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:87
+msgid "Full Size"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:92
+msgid "This setting allows you to select image size you wish to display to users"
+msgstr ""
+
+#: includes/rpwfr-general-settings.php:112
+msgid "This setting allows you to enable/disable Re-order button on Order detail page in My Account"
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:21
+msgid "This setting allows you to Hide Related Products section on Product page. By default related products will be displayed according to the setting provided ."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:41
+#: includes/rpwfr-upsells-settings.php:43
+msgid "Default Theme View"
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:44
+#: includes/rpwfr-upsells-settings.php:46
+msgid "Ajax Slider Display"
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:49
+#: includes/rpwfr-upsells-settings.php:51
+msgid "This setting allows you to choose the mode for displaying related products: Default Theme or Shortcode."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:69
+msgid "Hook"
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:72
+msgid "Custom Shortcode."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:73
+msgid "Use shortcode [rpwfr_custom_related_products_display]"
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:81
+msgid "This setting allows user to Opt for a shortcode with or without parameters. If rendered without parameters, the product page will display related products using the default theme."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:149
+msgid "This setting enables you to specify the title you want to show for \"Related Products\" widget and shortcode."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:222
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"Related Products\" shortcode."
+msgstr ""
+
+#: includes/rpwfr-related-setting.php:245
+msgid "This setting allows you to include or exclude out of stock products. By default all out of stock products are not shown."
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:19
+msgid "Related, UpSells & Cross-Sells"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:71
+msgid "General"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:73
+msgid "Upsells Products  "
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:189
+msgid "Select Background Color"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:198
+msgid "Select Button Color"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:206
+msgid "Select Button Arrow Icon Color"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:214
+msgid "Product Image Size"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:245
+#: includes/rpwfr-settings-tabs.php:332
+msgid "Product Display Mode"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:253
+msgid "Related Product Display Mode"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:261
+msgid "Number of Columns"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:269
+msgid "Number of Products to Display"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:277
+msgid "Ajax Slider Options"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:285
+#: includes/rpwfr-settings-tabs.php:350
+msgid "Title for Widget"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:293
+#: includes/rpwfr-settings-tabs.php:359
+msgid "Products Per Row"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:301
+msgid "Remove Out-of-Stock Products"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:341
+msgid "UpSells Product Display Mode"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:515
+msgid "API Key is required to fetch models"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:575
+msgid "It looks like you don't have access to the ChatGPT model with your current API key."
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:576
+msgid "To resolve this please check your subscription by visiting the"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:576
+msgid "billing"
+msgstr ""
+
+#: includes/rpwfr-settings-tabs.php:576
+msgid "page."
+msgstr ""
+
+#: includes/rpwfr-upsells-settings.php:27
+msgid "This setting allows you to Hide UpSells Products section on Product page. By default related products will be displayed according to the setting provided ."
+msgstr ""
+
+#: includes/rpwfr-upsells-settings.php:64
+msgid "UpSells Products"
+msgstr ""
+
+#: includes/rpwfr-upsells-settings.php:67
+msgid "This setting enables you to specify the title you want to show for \"UpSells Products\" widget and shortcode."
+msgstr ""
+
+#: includes/rpwfr-upsells-settings.php:139
+msgid "This setting allows you to specify the number of products you wish to showcase within the \"UpSells Products\" AJAX slider."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:102
+msgid "Free version deactivated Related Products Pro version Installed"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:135
+msgid "Please select a filter ( product category, tags, product name or SKU) to search your products."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:136
+msgid "No products found on current on selected search criteria. Please change filter or search for other products."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:137
+msgid "Please input keywords/ terms for the chosen filter for the products you wish to update"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:138
+msgid "Saving Changes..."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:139
+msgid "This will take a few seconds."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:140
+msgid "Products Updated Successfully!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:141
+msgid "Some Error Occurred"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:142
+msgid "Dismiss this notice."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:143
+msgid "Inactive. You've got pro version !"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:288
+msgid "Upgrade Now!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:289
+msgid "Looking for this cool feature? Go Pro!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:290
+msgid "Go with our premium version to unlock the following features:"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:291
+msgid "Bulk Update  Related Products, Upsells, and Cross-Sells from a single screen."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:292
+msgid "Custom Related Products  Shortcode with AJAX Slider."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:293
+msgid "More Control for Related Products : Show Ratings, Sale Price, Widget Location & more."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:294
+msgid "Sales Boost: Increase average order value and revenue."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:295
+msgid "Pro Field Alert!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:296
+msgid "Shortcode Copied !"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:297
+msgid "Error"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:298
+msgid "Ok"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:316
+msgid "Sorry, but 'Related Products for woocommerce' plugin requires the Woocommerce Plugin to be installed and active."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:361
+#: sft-related-products-woocommerce.php:610
+msgid "To save your changes, you must choose tags or categories within the 'include/exclude' field or disable the 'Filter by Categories and tags' switch."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:400
+msgid "Settings"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:401
+msgid "UpGrade to Pro !"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:609
+msgid "Please choose a custom page to apply the modifications for \"Buy It Again\" products."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:803
+#: sft-related-products-woocommerce.php:824
+#: sft-related-products-woocommerce.php:838
+#: sft-related-products-woocommerce.php:852
+#: sft-related-products-woocommerce.php:868
+msgid "Related Product"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:805
+msgid "Your request is currently being processed. We appreciate your patience and will notify you as soon as it's ready!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:808
+msgid "Actions you can perform: "
+msgstr ""
+
+#: sft-related-products-woocommerce.php:808
+msgid "Reload Page"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:827
+msgid "We're sorry, but your current request could not be processed due to insufficient quota remaining on your API key. It appears that you have used up most of your allocated quota. Please check your API usage or consider upgrading your plan."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:841
+msgid "Your API Key is incorrect! Please double-check your entry and try again."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:855
+msgid "Unfortunately, we were unable to fulfill your request at this time because the API system is currently experiencing heavy load. Our servers are working at full capacity. Please try again in a few moments when the system has stabilized."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:871
+msgid "Your request has been successfully fulfilled!"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:1009
+msgid "🎉 Exciting New AI Features in Related Products Pro for WooCommerce (v2.1.2) !"
+msgstr ""
+
+#: sft-related-products-woocommerce.php:1012
+msgid "We’ve just rolled out some amazing AI-driven enhancements using Chat GPT in version 2.1.2! These updates will help you offer more personalized and relevant product recommendations to your customers, driving more conversions and enhancing the shopping experience."
+msgstr ""
+
+#: sft-related-products-woocommerce.php:1024
+msgid " Click here to view"
+msgstr ""
